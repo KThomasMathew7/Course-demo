@@ -1,14 +1,14 @@
-1.2. Greetings from Your Instructors | Introduction
+# 1.2. Greetings from Your Instructors | Introduction
 
 Hello learners! Before we dive deep into the fascinating world of Large Language Models, we have a special video greeting from your instructor, Anup Surendran. Anup is not just an expert in the field but also the founder of the popular YouTube channel "Data Science and AI for Beginners and Kids."
 
 In this introductory video, Anup will cover:
 
-What you'll learn throughout this course
-The immense importance of understanding LLMs in today's world
-# What you can expect to gain at the end of this course
+- What you'll learn throughout this course
+- The immense importance of understanding LLMs in today's world
+- What you can expect to gain at the end of this course
 
-Sneak Peek: We will also demonstrate an example open-source LLM application that you'll be able to and are supposed to build by the end of this course. 🎉
+_ Sneak Peek: We will also demonstrate an example open-source LLM application that you'll be able to and are supposed to build by the end of this course. 🎉
 
 ## 1.3. Your First Exercise | Introduction
 
