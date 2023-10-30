@@ -3,7 +3,7 @@
 
 Welcome to this exciting journey into the world of Large Language Models (LLMs)! Sponsored by Pathway.com, this course is designed to be your comprehensive guide to understanding and building applications powered by LLMs.
 
-###**Course Objectives**
+### **Course Objectives**
 
 Our primary aim is to equip you with the skills needed to:
 
@@ -13,7 +13,7 @@ Our primary aim is to equip you with the skills needed to:
 4 Master the fundamentals of prompt engineering
 5 Leverage the power of open source and large language models to build meaningful solutions that solve problems.
 
-###**Pre-requisites**
+### **Pre-requisites**
 
 - Basic Python: If you're new to Python or need a refresher, here are some free Python tutorials to get you started.
 
