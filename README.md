@@ -44,3 +44,5 @@ Mike Chambers, Developer Advocate at AWS, Youtube: @BuildOnAWS
 More contributors to be announced soon.
 
 Let's embark on this captivating voyage into the world of Large Language Models. Ready to dive in? 🌟
+
+[Click Me]()
