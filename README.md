@@ -7,11 +7,11 @@ Welcome to this exciting journey into the world of Large Language Models (LLMs)!
 
 Our primary aim is to equip you with the skills needed to:
 
-1 Create your own LLM application using open-source technologies
-2 Understand the architecture of an LLM
-3 Grasp various stages of the LLM pipeline
-4 Master the fundamentals of prompt engineering
-5 Leverage the power of open source and large language models to build meaningful solutions that solve problems.
+1 Create your own LLM application using open-source technologies  
+2 Understand the architecture of an LLM  
+3 Grasp various stages of the LLM pipeline  
+4 Master the fundamentals of prompt engineering  
+5 Leverage the power of open source and large language models to build meaningful solutions that solve problems.  
 
 ### **Pre-requisites**
 
