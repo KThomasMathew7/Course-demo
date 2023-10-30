@@ -45,4 +45,4 @@ A heartfelt thanks to those who made this course richer with their expertise:
 
 Let's embark on this captivating voyage into the world of Large Language Models. Ready to dive in? 🌟
 
-[Click Me](Module2.md)
+[Next Lesson](Module2.md)
