@@ -45,4 +45,4 @@ More contributors to be announced soon.
 
 Let's embark on this captivating voyage into the world of Large Language Models. Ready to dive in? 🌟
 
-[Click Me]()
+[Click Me](Module2.md)
