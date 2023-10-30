@@ -1,9 +1,9 @@
-#**Introduction to Large Language Models**
-- **1.1. Course Overview | Introduction**
+## **Introduction to Large Language Models**
+# **1.1. Course Overview | Introduction**
 
 Welcome to this exciting journey into the world of Large Language Models (LLMs)! Sponsored by Pathway.com, this course is designed to be your comprehensive guide to understanding and building applications powered by LLMs.
 
-**Course Objectives**
+#**Course Objectives**
 
 Our primary aim is to equip you with the skills needed to:
 
