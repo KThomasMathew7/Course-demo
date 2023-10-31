@@ -3,13 +3,6 @@
 
 Welcome to this exciting journey into the world of Large Language Models (LLMs)! Sponsored by Pathway.com, this course is designed to be your comprehensive guide to understanding and building applications powered by LLMs.
 
-<iframe
-  src="https://www.youtube.com/embed/WJZZwoToUec?si=tah-k7lQquf4dzqs"
-  style="width:100%; height:300px;"
-></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WJZZwoToUec?si=tah-k7lQquf4dzqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### **Course Objectives**
 
 Our primary aim is to equip you with the skills needed to:
